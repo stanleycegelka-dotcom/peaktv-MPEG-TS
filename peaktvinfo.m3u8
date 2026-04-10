@@ -15,18 +15,18 @@ http://lobby.peaktv.name/balancer/bigteisti8/russia1_hd_pl4/ZGVuaXMxMjIzfHxSR1Z1
 http://lobby.peaktv.name/balancer/bigteisti20/08946978/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb319" tvg-name="НТВ HD" tvg-logo="http://peaktv.su/img/logos/efir/ntv-white.png" catchup="flussonic" catchup-days="3", НТВ HD
 http://lobby.peaktv.name/balancer/bigteisti8/ntvhd/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb359" tvg-name="РЕН ТВ FHD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" catchup="flussonic" catchup-days="3", РЕН ТВ FHD
+http://lobby.peaktv.name/balancer/bigteisti20/08946979/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb359" tvg-name="Рен ТВ HD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" catchup="flussonic" catchup-days="3", Рен ТВ HD
+http://lobby.peaktv.name/balancer/bigteisti10/RENTV/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb395" tvg-name="СТС HD" tvg-logo="http://peaktv.su/img/logos/show/sts.png" catchup="flussonic" catchup-days="3", СТС HD
+http://lobby.peaktv.name/balancer/bigteisti8/STS_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb419" tvg-name="ТНТ FHD" tvg-logo="http://peaktv.su/img/logos/show/tnt.png" catchup="flussonic" catchup-days="3", ТНТ FHD
 http://lobby.peaktv.name/balancer/bigteisti20/08946980/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2992" tvg-name="ТНТ HD" tvg-logo="http://peaktv.su/img/logos/show/tnt.png" catchup="flussonic" catchup-days="3", ТНТ HD
 http://lobby.peaktv.name/balancer/bigteisti8/TNT_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb3006" tvg-name="ТНТ4 HD" tvg-logo="http://peaktv.su/img/logos/federal/TNT4200.png" catchup="flussonic" catchup-days="3", ТНТ4 HD
 http://lobby.peaktv.name/balancer/bigteisti9/tnt4/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb395" tvg-name="СТС HD" tvg-logo="http://peaktv.su/img/logos/show/sts.png" catchup="flussonic" catchup-days="3", СТС HD
-http://lobby.peaktv.name/balancer/bigteisti8/STS_HD/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb359" tvg-name="РЕН ТВ FHD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" catchup="flussonic" catchup-days="3", РЕН ТВ FHD
-http://lobby.peaktv.name/balancer/bigteisti20/08946979/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 group-title="Россия | Russia" tvg-id="elb359" tvg-name="Рен ТВ HD" tvg-logo="http://peaktv.su/img/logos/efir/rentv.png" catchup="flussonic" catchup-days="3", Рен ТВ HD
-http://lobby.peaktv.name/balancer/bigteisti10/RENTV/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb406" tvg-name="ТВЦ HD" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr.png" catchup="flussonic" catchup-days="3", ТВЦ HD
 http://lobby.peaktv.name/balancer/bigteisti13/TVC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb210" tvg-name="Звезда HD" tvg-logo="http://peaktv.su/img/logos/efir/zvezda.png" catchup="flussonic" catchup-days="3", Звезда HD
