@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+﻿#EXTM3U url-tvg="https://doas.top/epg.xml.gz"
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2364" tvg-name="Первый канал FHD" tvg-logo="http://peaktv.su/img/logos/efir/pervyj.png" catchup="flussonic" catchup-days="3", Первый канал FHD
 http://lobby.peaktv.name/balancer/bigteisti1/perviy_orig/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 group-title="Россия | Russia" tvg-id="elb2384" tvg-name="Первый канал HD +4" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl4.png" catchup="flussonic" catchup-days="3", Первый канал HD +4
