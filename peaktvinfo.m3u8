@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://45.194.66.63/final_epg.xml.gz"
+#EXTM3U url-tvg="http://epg.peaktv.su/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Общие" tvg-id="elb340" tvg-logo="https://bittv.ltd/images/icon/200x200/obwie/pervy.png" catchup-days="3" timeshift="3", Первый канал HD Premium+
 http://cdn.bittv.ltd/bigteisti1/perviy_orig/index.m3u8?token=aDZsMm1wenA1Njp2cHM3Ym1yaDg3
 #EXTINF:-1 group-title="Общие" tvg-id="elb2384" tvg-logo="https://bittv.ltd/images/icon/200x200/obwie/pervy-pl4.png" catchup-days="3" timeshift="3", Первый канал HD +4
