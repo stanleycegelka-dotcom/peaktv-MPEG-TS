@@ -446,9 +446,6 @@ http://lobby.peaktv.name/balancer/bigteisti6/nAno_tv_HD/ZGVuaXMxMjIzfHxSR1Z1YVhO
 #EXTINF:-1 tvg-id="elb306" tvg-name="Наука 2.0 HD" tvg-logo="http://peaktv.su/img/logos/poznanie/nauka-20.png" catchup="flussonic" catchup-days="3", Наука 2.0 HD
 #EXTGRP:Познавательные | Nature
 http://lobby.peaktv.name/balancer/bigteisti9/NAUKA20/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb189" tvg-name="Диалоги о рыбалке" tvg-logo="http://peaktv.su/img/logos/poznanie/dialogi-o-rib.png" catchup="flussonic" catchup-days="3", Диалоги о рыбалке
-#EXTGRP:Познавательные | Nature
-http://lobby.peaktv.name/balancer/bigteisti10/dialogi/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb191" tvg-name="Дикая Рыбалка HD" tvg-logo="http://peaktv.su/img/logos/show/dikaya-rybalka-hd.png" catchup="flussonic" catchup-days="3", Дикая Рыбалка HD
 #EXTGRP:Познавательные | Nature
 http://lobby.peaktv.name/balancer/bigteisti9/DIKAYARYBALKA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -1082,12 +1079,6 @@ http://lobby.peaktv.name/balancer/bigteisti2/08946974/ZGVuaXMxMjIzfHxSR1Z1YVhOcl
 #EXTINF:-1 tvg-id="elb573" tvg-name="CineMan Скорая помощь" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan-ER.png" catchup="flussonic" catchup-days="3", CineMan Скорая помощь
 #EXTGRP:Кинозалы | Movie theaters
 http://lobby.peaktv.name/balancer/bigteisti2/08946971/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb445" tvg-name="Yosso TV BEST 60 FPS BOX" tvg-logo="http://peaktv.su/img/logos/yosso_tv/best_60fps.png" catchup="flussonic" catchup-days="3", Yosso TV BEST 60 FPS BOX
-#EXTGRP:Кинозалы | Movie theaters
-http://lobby.peaktv.name/balancer/bigteisti1/08936923/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb446" tvg-name="Yosso TV BEST 60 FPS" tvg-logo="http://peaktv.su/img/logos/yosso_tv/best_60fps.png" catchup="flussonic" catchup-days="3", Yosso TV BEST 60 FPS
-#EXTGRP:Кинозалы | Movie theaters
-http://lobby.peaktv.name/balancer/bigteisti1/Y-BEST_60FPS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb469" tvg-name="Yosso TV Netflix" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-netflix.png" catchup="flussonic" catchup-days="3", Yosso TV Netflix
 #EXTGRP:Кинозалы | Movie theaters
 http://lobby.peaktv.name/balancer/bigteisti1/Y-NETFLIX/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -1196,9 +1187,6 @@ http://lobby.peaktv.name/balancer/bigteisti13/fz_01B/ZGVuaXMxMjIzfHxSR1Z1YVhOcll
 #EXTINF:-1 tvg-id="elb3576" tvg-name="BOX Ghost HD" tvg-logo="http://peaktv.su/img/logos/box/ghost.png" catchup="flussonic" catchup-days="3", BOX Ghost HD
 #EXTGRP:Кинозалы | Movie theaters
 http://lobby.peaktv.name/balancer/bigteisti13/hz_A22/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb4313" tvg-name="VeleS 60 FPS" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/VELES_60FPS_normal.png" catchup="flussonic" catchup-days="3", VeleS 60 FPS
-#EXTGRP:Кинозалы | Movie theaters
-http://lobby.peaktv.name/balancer/bigteisti1/VELES_60FPS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb4308" tvg-name="VeleS Premiere" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/veles_premiere.png" catchup="flussonic" catchup-days="3", VeleS Premiere
 #EXTGRP:Кинозалы | Movie theaters
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_PREMIERE/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -1778,6 +1766,15 @@ http://lobby.peaktv.name/balancer/bigteisti6/tnt_Music_HD/ZGVuaXMxMjIzfHxSR1Z1YV
 #EXTINF:-1 tvg-id="elb2671" tvg-name="Шансон ТВ" tvg-logo="http://peaktv.su/img/logos/music/shansontv.png", Шансон ТВ
 #EXTGRP:Музыкальные | Music
 http://lobby.peaktv.name/balancer/bigteisti3/shansontv/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 tvg-id="elb2520" tvg-name="Радио Шансон (Live)" tvg-logo="http://peaktv.su/img/logos/music/radio-shanson.png", Радио Шансон (Live)
+#EXTGRP:Музыкальные | Music
+http://lobby.peaktv.name/balancer/bigteisti3/shansonradio/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 tvg-id="elb4704" tvg-name="Yosso TV Шансон" tvg-logo="http://peaktv.su/img/logos/yosso/yosso-shanson.png" catchup="flussonic" catchup-days="3", Yosso TV Шансон
+#EXTGRP:Музыкальные | Music
+http://lobby.peaktv.name/balancer/bigteisti19/09946971/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
+#EXTINF:-1 tvg-id="elb466" tvg-name="Yosso TV Music Hits" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-musichits.png" catchup="flussonic" catchup-days="3", Yosso TV Music Hits
+#EXTGRP:Музыкальные | Music
+http://lobby.peaktv.name/balancer/bigteisti1/Y-MUSIC-HITS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb2157" tvg-name="МузСоюз" tvg-logo="http://peaktv.su/img/logos/music/muzsoyuz.png", МузСоюз
 #EXTGRP:Музыкальные | Music
 http://lobby.peaktv.name/balancer/bigteisti3/muz_soyuz/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -1790,9 +1787,6 @@ http://lobby.peaktv.name/balancer/bigteisti6/Clubbing_TV/ZGVuaXMxMjIzfHxSR1Z1YVh
 #EXTINF:-1 tvg-id="elb1452" tvg-name="EU.Music HD" tvg-logo="http://peaktv.su/img/logos/music/eu-music.png" catchup="flussonic" catchup-days="3", EU.Music HD
 #EXTGRP:Музыкальные | Music
 http://lobby.peaktv.name/balancer/bigteisti6/EU_MUSIC_UA/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb2520" tvg-name="Радио Шансон (Live)" tvg-logo="http://peaktv.su/img/logos/music/radio-shanson.png", Радио Шансон (Live)
-#EXTGRP:Музыкальные | Music
-http://lobby.peaktv.name/balancer/bigteisti3/shansonradio/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb2231" tvg-name="NRJ Hits (BE)" tvg-logo="http://peaktv.su/img/logos/music/nrj-hits.png", NRJ Hits (BE)
 #EXTGRP:Музыкальные | Music
 http://lobby.peaktv.name/balancer/bigteisti2/music_nrj_hits/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -1820,12 +1814,6 @@ http://lobby.peaktv.name/balancer/bigteisti13/minimax_rock/ZGVuaXMxMjIzfHxSR1Z1Y
 #EXTINF:-1 tvg-id="elb560" tvg-name="MM World Hits HD" tvg-logo="http://peaktv.su/img/logos/minimax/1029.png" catchup="flussonic" catchup-days="3", MM World Hits HD
 #EXTGRP:Музыкальные | Music
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_world_hits/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb466" tvg-name="Yosso TV Music Hits" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-musichits.png" catchup="flussonic" catchup-days="3", Yosso TV Music Hits
-#EXTGRP:Музыкальные | Music
-http://lobby.peaktv.name/balancer/bigteisti1/Y-MUSIC-HITS/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb4704" tvg-name="Yosso TV Шансон" tvg-logo="http://peaktv.su/img/logos/yosso/yosso-shanson.png" catchup="flussonic" catchup-days="3", Yosso TV Шансон
-#EXTGRP:Музыкальные | Music
-http://lobby.peaktv.name/balancer/bigteisti19/09946971/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb3585" tvg-name="BOX Metall HD" tvg-logo="http://peaktv.su/img/logos/box/metall.png" catchup="flussonic" catchup-days="3", BOX Metall HD
 #EXTGRP:Музыкальные | Music
 http://lobby.peaktv.name/balancer/bigteisti13/pz_Portal/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
