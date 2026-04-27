@@ -5,9 +5,6 @@ http://lobby.peaktv.name/balancer/bigteisti1/perviy_orig/ZGVuaXMxMjIzfHxSR1Z1YVh
 #EXTINF:-1 tvg-id="elb2384" tvg-name="Первый канал HD +4" tvg-logo="http://peaktv.su/img/logos/efir/pervy-pl4.png" catchup="flussonic" catchup-days="3", Первый канал HD +4
 #EXTGRP:Россия | Russia
 http://lobby.peaktv.name/balancer/bigteisti19/08946901/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb364" tvg-name="Россия 1 FHD" tvg-logo="http://peaktv.su/img/logos/efir/rossia1.png" catchup="flussonic" catchup-days="3", Россия 1 FHD
-#EXTGRP:Россия | Russia
-http://lobby.peaktv.name/balancer/bigteisti8/russia1_orig/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb364" tvg-name="Россия 1 HD" tvg-logo="http://peaktv.su/img/logos/efir/rossia1.png" catchup="flussonic" catchup-days="3", Россия 1 HD
 #EXTGRP:Россия | Russia
 http://lobby.peaktv.name/balancer/bigteisti8/RUSSIA1/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
@@ -32,9 +29,6 @@ http://lobby.peaktv.name/balancer/bigteisti20/08946980/ZGVuaXMxMjIzfHxSR1Z1YVhOc
 #EXTINF:-1 tvg-id="elb3006" tvg-name="ТНТ4 HD" tvg-logo="http://peaktv.su/img/logos/federal/TNT4200.png" catchup="flussonic" catchup-days="3", ТНТ4 HD
 #EXTGRP:Россия | Russia
 http://lobby.peaktv.name/balancer/bigteisti9/tnt4/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
-#EXTINF:-1 tvg-id="elb406" tvg-name="ТВЦ FHD" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr.png" catchup="flussonic" catchup-days="3", ТВЦ FHD
-#EXTGRP:Россия | Russia
-http://lobby.peaktv.name/balancer/bigteisti19/09946965/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
 #EXTINF:-1 tvg-id="elb406" tvg-name="ТВЦ HD" tvg-logo="http://peaktv.su/img/logos/efir/tvcentr.png" catchup="flussonic" catchup-days="3", ТВЦ HD
 #EXTGRP:Россия | Russia
 http://lobby.peaktv.name/balancer/bigteisti13/TVC/ZGVuaXMxMjIzfHxSR1Z1YVhOcllURXlNak5B/index.m3u8
